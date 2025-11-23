@@ -112,10 +112,6 @@ CYAN = "\033[1;36m"
 MAGENTA = "\033[1;35m"
 RESET = "\033[0m"
 
-# ====== CORRECT CREDENTIALS ======
-CORRECT_USERNAME = "admin"
-CORRECT_PASSWORD = "Qwerty123"
-CORRECT_REDEEM = "exjfoaprmvma"
 
 # ====== CLEAR FUNCTION ======
 def clear():
@@ -6550,3 +6546,4 @@ if __name__ == "__main__":
     
     
     
+
